@@ -31,7 +31,16 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Guidelines and Rules",
+        "icon": "paperclip",
+        "pages": [
+          "guidelines"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
