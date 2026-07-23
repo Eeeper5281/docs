@@ -37,7 +37,8 @@
         "group": "Guidelines and Rules",
         "icon": "paperclip",
         "pages": [
-          "guidelines"
+          "guidelines",
+          "suggestion-guidelines"
         ]
       }
     ]
